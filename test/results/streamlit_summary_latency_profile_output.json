@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-10-08T10:44:58",
+  "note": "Server-side Streamlit timing. Browser paint/network after server render is not included.",
+  "runs": 1,
+  "metrics": {
+    "click_to_server_rendered_seconds": {
+      "count": 1,
+      "average": 98.4221,
+      "median": 98.4221,
+      "p95": 98.4221,
+      "min": 98.4221,
+      "max": 98.4221
+    },
+    "click_to_job_launch_seconds": {
+      "count": 1,
+      "average": 0.0852,
+      "median": 0.0852,
+      "p95": 0.0852,
+      "min": 0.0852,
+      "max": 0.0852
+    },
+    "background_job_seconds": {
+      "count": 1,
+      "average": 98.1472,
+      "median": 98.1472,
+      "p95": 98.1472,
+      "min": 98.1472,
+      "max": 98.1472
+    },
+    "commit_seconds": {
+      "count": 1,
+      "average": 0.0361,
+      "median": 0.0361,
+      "p95": 0.0361,
+      "min": 0.0361,
+      "max": 0.0361
+    },
+    "rerun_to_summary_render_start_seconds": {
+      "count": 1,
+      "average": 0.1321,
+      "median": 0.1321,
+      "p95": 0.1321,
+      "min": 0.1321,
+      "max": 0.1321
+    },
+    "summary_render_seconds": {
+      "count": 1,
+      "average": 0.0214,
+      "median": 0.0214,
+      "p95": 0.0214,
+      "min": 0.0214,
+      "max": 0.0214
+    }
+  },
+  "records": [
+    {
+      "generated_at": "2026-10-08T10:44:58",
+      "mode": "manual",
+      "selected_count": 1,
+      "summary_count": 1,
+      "click_to_job_launch_seconds": 0.0852,
+      "background_job_seconds": 98.1472,
+      "commit_seconds": 0.0361,
+      "rerun_to_summary_render_start_seconds": 0.1321,
+      "summary_render_seconds": 0.0214,
+      "click_to_server_rendered_seconds": 98.4221
+    }
+  ]
+}

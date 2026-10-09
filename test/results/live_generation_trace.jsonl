@@ -1,0 +1,300 @@
+{"at": "2026-10-05T14:44:33.862", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "launch", "origin": "manual", "mode": "manual", "items": 3}
+{"at": "2026-10-05T14:44:33.869", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 3}
+{"at": "2026-10-05T14:44:35.468", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "thread_ready", "elapsed_seconds": 1.5977, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:44:47.886", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "thread_ready", "elapsed_seconds": 1.5703, "item": 2, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:44:48.924", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "item_error", "item": 2, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:44:50.518", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "thread_ready", "elapsed_seconds": 1.5932, "item": 3, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:44:51.804", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "item_error", "item": 3, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:44:51.805", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "worker_done", "elapsed_seconds": 17.9362, "summaries": 1, "failures": 2, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-05T14:44:52.018", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T14:44:52.070", "kind": "SUMMARY", "job_id": "S-144433-c4f30", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-05T14:46:10.288", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "launch", "origin": "manual", "mode": "manual", "items": 9}
+{"at": "2026-10-05T14:46:10.290", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 9}
+{"at": "2026-10-05T14:46:11.907", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "thread_ready", "elapsed_seconds": 1.6132, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:46:21.926", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "summary_action_audit_input", "audit_chars": 1203, "source_chars": 64, "segment": 1, "segments": 1}
+{"at": "2026-10-05T14:46:38.413", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "thread_ready", "elapsed_seconds": 4.1708, "item": 2, "items": 4, "security_excluded": 0}
+{"at": "2026-10-05T14:46:46.081", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "summary_action_audit_input", "audit_chars": 1356, "source_chars": 268, "segment": 1, "segments": 1}
+{"at": "2026-10-05T14:46:47.133", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "item_error", "item": 2, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:46:48.902", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "thread_ready", "elapsed_seconds": 1.7671, "item": 3, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:46:49.959", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "item_error", "item": 3, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:46:49.961", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "thread_ready", "elapsed_seconds": 0.0009, "item": 4, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:46:50.910", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "item_error", "item": 4, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:46:50.913", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "thread_ready", "elapsed_seconds": 0.0011, "item": 5, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:46:51.967", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "item_error", "item": 5, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:46:53.577", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "thread_ready", "elapsed_seconds": 1.6087, "item": 6, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:46:53.580", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "worker_done", "elapsed_seconds": 43.2912, "summaries": 1, "failures": 4, "security_skips": 0, "calls": 0, "status": "cancelled"}
+{"at": "2026-10-05T14:46:54.925", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T14:46:54.966", "kind": "SUMMARY", "job_id": "S-144610-deead", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "cancelled"}
+{"at": "2026-10-05T14:49:10.587", "kind": "SUMMARY", "job_id": "S-144910-99d71", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T14:49:10.589", "kind": "SUMMARY", "job_id": "S-144910-99d71", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T14:49:12.204", "kind": "SUMMARY", "job_id": "S-144910-99d71", "stage": "thread_ready", "elapsed_seconds": 1.612, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:49:12.207", "kind": "SUMMARY", "job_id": "S-144910-99d71", "stage": "item_error", "item": 1, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:49:12.210", "kind": "SUMMARY", "job_id": "S-144910-99d71", "stage": "worker_done", "elapsed_seconds": 1.6199, "summaries": 0, "failures": 1, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-05T14:49:13.823", "kind": "SUMMARY", "job_id": "S-144910-99d71", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T14:49:13.825", "kind": "SUMMARY", "job_id": "S-144910-99d71", "stage": "commit_done", "origin": "manual", "summaries": 0, "status": "ok"}
+{"at": "2026-10-05T14:49:36.569", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "launch", "origin": "manual", "mode": "manual", "items": 3}
+{"at": "2026-10-05T14:49:36.570", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 3}
+{"at": "2026-10-05T14:49:36.575", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "thread_ready", "elapsed_seconds": 0.001, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:49:36.585", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "item_error", "item": 1, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:49:38.175", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "thread_ready", "elapsed_seconds": 1.5844, "item": 2, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:49:38.178", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "item_error", "item": 2, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:49:39.741", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "thread_ready", "elapsed_seconds": 1.5628, "item": 3, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:49:39.750", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "item_error", "item": 3, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:49:39.794", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "worker_done", "elapsed_seconds": 3.2233, "summaries": 0, "failures": 3, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-05T14:49:39.797", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T14:49:39.797", "kind": "SUMMARY", "job_id": "S-144936-66255", "stage": "commit_done", "origin": "manual", "summaries": 0, "status": "ok"}
+{"at": "2026-10-05T14:50:22.756", "kind": "SUMMARY", "job_id": "S-145022-fde20", "stage": "launch", "origin": "manual", "mode": "manual", "items": 2}
+{"at": "2026-10-05T14:50:22.757", "kind": "SUMMARY", "job_id": "S-145022-fde20", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 2}
+{"at": "2026-10-05T14:50:22.761", "kind": "SUMMARY", "job_id": "S-145022-fde20", "stage": "thread_ready", "elapsed_seconds": 0.0009, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:50:22.787", "kind": "SUMMARY", "job_id": "S-145022-fde20", "stage": "item_error", "item": 1, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:50:22.791", "kind": "SUMMARY", "job_id": "S-145022-fde20", "stage": "thread_ready", "elapsed_seconds": 0.001, "item": 2, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:50:22.793", "kind": "SUMMARY", "job_id": "S-145022-fde20", "stage": "item_error", "item": 2, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:50:22.795", "kind": "SUMMARY", "job_id": "S-145022-fde20", "stage": "worker_done", "elapsed_seconds": 0.0378, "summaries": 0, "failures": 2, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-05T14:50:25.937", "kind": "SUMMARY", "job_id": "S-145022-fde20", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T14:50:25.940", "kind": "SUMMARY", "job_id": "S-145022-fde20", "stage": "commit_done", "origin": "manual", "summaries": 0, "status": "ok"}
+{"at": "2026-10-05T14:50:55.354", "kind": "SUMMARY", "job_id": "S-145055-07fe1", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T14:50:55.355", "kind": "SUMMARY", "job_id": "S-145055-07fe1", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T14:50:55.359", "kind": "SUMMARY", "job_id": "S-145055-07fe1", "stage": "thread_ready", "elapsed_seconds": 0.0012, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:50:55.384", "kind": "SUMMARY", "job_id": "S-145055-07fe1", "stage": "item_error", "item": 1, "status": "StructuredOutputError"}
+{"at": "2026-10-05T14:50:55.385", "kind": "SUMMARY", "job_id": "S-145055-07fe1", "stage": "worker_done", "elapsed_seconds": 0.0308, "summaries": 0, "failures": 1, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-05T14:50:58.627", "kind": "SUMMARY", "job_id": "S-145055-07fe1", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T14:50:58.628", "kind": "SUMMARY", "job_id": "S-145055-07fe1", "stage": "commit_done", "origin": "manual", "summaries": 0, "status": "ok"}
+{"at": "2026-10-05T14:53:16.611", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "launch", "origin": "manual", "mode": "manual", "items": 10}
+{"at": "2026-10-05T14:53:16.614", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 10}
+{"at": "2026-10-05T14:53:18.177", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "thread_ready", "elapsed_seconds": 1.5587, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:53:32.180", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "thread_ready", "elapsed_seconds": 1.6263, "item": 2, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:53:41.250", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "summary_action_audit_input", "audit_chars": 1366, "source_chars": 230, "segment": 1, "segments": 1}
+{"at": "2026-10-05T14:53:49.529", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "thread_ready", "elapsed_seconds": 1.5828, "item": 3, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:53:58.523", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "thread_ready", "elapsed_seconds": 1.6289, "item": 4, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:55:29.489", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "thread_ready", "elapsed_seconds": 1.6633, "item": 5, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T14:55:40.515", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "thread_ready", "elapsed_seconds": 4.0394, "item": 6, "items": 4, "security_excluded": 0}
+{"at": "2026-10-05T14:55:55.055", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "summary_action_audit_input", "audit_chars": 1356, "source_chars": 268, "segment": 1, "segments": 1}
+{"at": "2026-10-05T14:59:54.152", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "worker_done", "elapsed_seconds": 397.5405, "summaries": 5, "failures": 0, "security_skips": 0, "calls": 3, "status": "cancelled"}
+{"at": "2026-10-05T14:59:54.164", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T14:59:54.218", "kind": "SUMMARY", "job_id": "S-145316-def73", "stage": "commit_done", "origin": "manual", "summaries": 5, "status": "cancelled"}
+{"at": "2026-10-05T15:40:44.971", "kind": "SUMMARY", "job_id": "S-154044-f6877", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T15:40:44.974", "kind": "SUMMARY", "job_id": "S-154044-f6877", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T15:40:44.979", "kind": "SUMMARY", "job_id": "S-154044-f6877", "stage": "thread_ready", "elapsed_seconds": 0.001, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T15:40:56.094", "kind": "SUMMARY", "job_id": "S-154044-f6877", "stage": "worker_done", "elapsed_seconds": 11.1196, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-05T15:40:56.820", "kind": "SUMMARY", "job_id": "S-154044-f6877", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T15:40:56.872", "kind": "SUMMARY", "job_id": "S-154044-f6877", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-05T15:42:46.775", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "launch", "origin": "manual", "mode": "manual", "items": 8}
+{"at": "2026-10-05T15:42:46.777", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 8}
+{"at": "2026-10-05T15:42:50.790", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "thread_ready", "elapsed_seconds": 4.009, "item": 1, "items": 4, "security_excluded": 0}
+{"at": "2026-10-05T15:43:48.513", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "summary_action_audit_input", "audit_chars": 1356, "source_chars": 268, "segment": 1, "segments": 1}
+{"at": "2026-10-05T15:45:14.671", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "thread_ready", "elapsed_seconds": 1.5532, "item": 2, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T15:45:38.878", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "summary_action_audit_input", "audit_chars": 1366, "source_chars": 230, "segment": 1, "segments": 1}
+{"at": "2026-10-05T15:46:00.658", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "thread_ready", "elapsed_seconds": 1.523, "item": 3, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T15:46:23.206", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "thread_ready", "elapsed_seconds": 1.588, "item": 4, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T15:46:54.911", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "thread_ready", "elapsed_seconds": 0.0009, "item": 5, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T15:48:02.575", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "thread_ready", "elapsed_seconds": 1.5366, "item": 6, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T15:49:57.631", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "thread_ready", "elapsed_seconds": 1.5192, "item": 7, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T15:50:45.548", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "thread_ready", "elapsed_seconds": 1.5289, "item": 8, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T15:50:51.168", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "summary_action_audit_input", "audit_chars": 1203, "source_chars": 64, "segment": 1, "segments": 1}
+{"at": "2026-10-05T15:51:08.432", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "worker_done", "elapsed_seconds": 501.6607, "summaries": 8, "failures": 0, "security_skips": 0, "calls": 4, "status": "ok"}
+{"at": "2026-10-05T15:51:08.799", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T15:51:08.867", "kind": "SUMMARY", "job_id": "S-154246-7606b", "stage": "commit_done", "origin": "manual", "summaries": 8, "status": "ok"}
+{"at": "2026-10-05T16:02:32.746", "kind": "SUMMARY", "job_id": "S-160232-438c1", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T16:02:32.747", "kind": "SUMMARY", "job_id": "S-160232-438c1", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T16:02:34.318", "kind": "SUMMARY", "job_id": "S-160232-438c1", "stage": "thread_ready", "elapsed_seconds": 1.567, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:04:22.052", "kind": "SUMMARY", "job_id": "S-160232-438c1", "stage": "worker_done", "elapsed_seconds": 109.3055, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-05T16:04:22.804", "kind": "SUMMARY", "job_id": "S-160232-438c1", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T16:04:22.846", "kind": "SUMMARY", "job_id": "S-160232-438c1", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-05T16:08:15.930", "kind": "SUMMARY", "job_id": "S-160815-19fc3", "stage": "launch", "origin": "manual", "mode": "manual", "items": 9}
+{"at": "2026-10-05T16:08:15.932", "kind": "SUMMARY", "job_id": "S-160815-19fc3", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 9}
+{"at": "2026-10-05T16:08:17.574", "kind": "SUMMARY", "job_id": "S-160815-19fc3", "stage": "thread_ready", "elapsed_seconds": 1.6378, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:13:18.321", "kind": "SUMMARY", "job_id": "S-160815-19fc3", "stage": "thread_ready", "elapsed_seconds": 1.54, "item": 2, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:16:34.224", "kind": "SUMMARY", "job_id": "S-161634-d909a", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T16:16:34.226", "kind": "SUMMARY", "job_id": "S-161634-d909a", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T16:16:35.965", "kind": "SUMMARY", "job_id": "S-161634-d909a", "stage": "thread_ready", "elapsed_seconds": 1.7337, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:18:51.582", "kind": "SUMMARY", "job_id": "S-161634-d909a", "stage": "worker_done", "elapsed_seconds": 137.3564, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-05T16:18:52.440", "kind": "SUMMARY", "job_id": "S-161634-d909a", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T16:18:52.490", "kind": "SUMMARY", "job_id": "S-161634-d909a", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-05T16:32:29.304", "kind": "SUMMARY", "job_id": "S-163229-bb0f3", "stage": "launch", "origin": "manual", "mode": "manual", "items": 9}
+{"at": "2026-10-05T16:32:29.310", "kind": "SUMMARY", "job_id": "S-163229-bb0f3", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 9}
+{"at": "2026-10-05T16:32:30.911", "kind": "SUMMARY", "job_id": "S-163229-bb0f3", "stage": "thread_ready", "elapsed_seconds": 1.5974, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:35:06.506", "kind": "SUMMARY", "job_id": "S-163229-bb0f3", "stage": "thread_ready", "elapsed_seconds": 1.5094, "item": 2, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:36:05.945", "kind": "SUMMARY", "job_id": "S-163605-6cb98", "stage": "launch", "origin": "manual", "mode": "manual", "items": 8}
+{"at": "2026-10-05T16:36:05.947", "kind": "SUMMARY", "job_id": "S-163605-6cb98", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 8}
+{"at": "2026-10-05T16:36:07.516", "kind": "SUMMARY", "job_id": "S-163605-6cb98", "stage": "thread_ready", "elapsed_seconds": 1.565, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:36:53.857", "kind": "SUMMARY", "job_id": "S-163605-6cb98", "stage": "thread_ready", "elapsed_seconds": 1.4991, "item": 2, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:37:25.649", "kind": "SUMMARY", "job_id": "S-163605-6cb98", "stage": "summary_action_audit_input", "audit_chars": 1366, "source_chars": 230, "segment": 1, "segments": 1}
+{"at": "2026-10-05T16:37:58.167", "kind": "SUMMARY", "job_id": "S-163605-6cb98", "stage": "thread_ready", "elapsed_seconds": 1.5315, "item": 3, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:38:32.037", "kind": "SUMMARY", "job_id": "S-163229-bb0f3", "stage": "thread_ready", "elapsed_seconds": 1.6245, "item": 3, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T16:38:34.570", "kind": "SUMMARY", "job_id": "S-163605-6cb98", "stage": "worker_done", "elapsed_seconds": 148.6305, "summaries": 2, "failures": 0, "security_skips": 0, "calls": 1, "status": "cancelled"}
+{"at": "2026-10-05T16:38:34.719", "kind": "SUMMARY", "job_id": "S-163605-6cb98", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T16:38:34.776", "kind": "SUMMARY", "job_id": "S-163605-6cb98", "stage": "commit_done", "origin": "manual", "summaries": 2, "status": "cancelled"}
+{"at": "2026-10-05T16:41:23.665", "kind": "SUMMARY", "job_id": "S-163229-bb0f3", "stage": "thread_ready", "elapsed_seconds": 1.5122, "item": 4, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T21:23:10.567", "kind": "SUMMARY", "job_id": "S-212310-1040b", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T21:23:10.569", "kind": "SUMMARY", "job_id": "S-212310-1040b", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T21:23:10.575", "kind": "SUMMARY", "job_id": "S-212310-1040b", "stage": "thread_ready", "elapsed_seconds": 0.0014, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T21:27:13.200", "kind": "SUMMARY", "job_id": "S-212310-1040b", "stage": "worker_done", "elapsed_seconds": 242.6323, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 1, "status": "ok"}
+{"at": "2026-10-05T21:27:51.223", "kind": "SUMMARY", "job_id": "S-212310-1040b", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T21:27:51.756", "kind": "SUMMARY", "job_id": "S-212310-1040b", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-05T21:38:34.058", "kind": "SUMMARY", "job_id": "S-213834-35b89", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T21:38:34.060", "kind": "SUMMARY", "job_id": "S-213834-35b89", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-05T21:38:35.768", "kind": "SUMMARY", "job_id": "S-213834-35b89", "stage": "thread_ready", "elapsed_seconds": 1.6979, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-05T21:38:42.740", "kind": "SUMMARY", "job_id": "S-213834-35b89", "stage": "worker_done", "elapsed_seconds": 8.6795, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 1, "status": "ok"}
+{"at": "2026-10-05T21:38:43.234", "kind": "SUMMARY", "job_id": "S-213834-35b89", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-05T21:38:43.326", "kind": "SUMMARY", "job_id": "S-213834-35b89", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-06T11:13:36.660", "kind": "SUMMARY", "job_id": "S-111336-53aff", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T11:13:36.663", "kind": "SUMMARY", "job_id": "S-111336-53aff", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T11:13:38.266", "kind": "SUMMARY", "job_id": "S-111336-53aff", "stage": "thread_ready", "elapsed_seconds": 1.5965, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-06T11:13:56.935", "kind": "SUMMARY", "job_id": "S-111336-53aff", "stage": "worker_done", "elapsed_seconds": 20.2711, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-06T11:13:56.940", "kind": "SUMMARY", "job_id": "S-111336-53aff", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-06T11:13:56.985", "kind": "SUMMARY", "job_id": "S-111336-53aff", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-06T12:34:35.459", "kind": "SUMMARY", "job_id": "S-123435-b4ba2", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T12:34:35.460", "kind": "SUMMARY", "job_id": "S-123435-b4ba2", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T12:34:37.513", "kind": "SUMMARY", "job_id": "S-123435-b4ba2", "stage": "thread_ready", "elapsed_seconds": 2.0473, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-06T12:36:38.094", "kind": "SUMMARY", "job_id": "S-123435-b4ba2", "stage": "item_error", "item": 1, "status": "StructuredOutputError"}
+{"at": "2026-10-06T12:36:38.096", "kind": "SUMMARY", "job_id": "S-123435-b4ba2", "stage": "worker_done", "elapsed_seconds": 122.6358, "summaries": 0, "failures": 1, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-06T12:36:38.709", "kind": "SUMMARY", "job_id": "S-123435-b4ba2", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-06T12:36:38.711", "kind": "SUMMARY", "job_id": "S-123435-b4ba2", "stage": "commit_done", "origin": "manual", "summaries": 0, "status": "ok"}
+{"at": "2026-10-06T12:40:52.426", "kind": "SUMMARY", "job_id": "S-124052-7fae3", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T12:40:52.428", "kind": "SUMMARY", "job_id": "S-124052-7fae3", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T12:40:54.201", "kind": "SUMMARY", "job_id": "S-124052-7fae3", "stage": "thread_ready", "elapsed_seconds": 1.7682, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-06T12:42:01.483", "kind": "SUMMARY", "job_id": "S-124052-7fae3", "stage": "summary_action_audit_input", "audit_chars": 1366, "source_chars": 230, "segment": 1, "segments": 1}
+{"at": "2026-10-06T12:42:24.672", "kind": "SUMMARY", "job_id": "S-124052-7fae3", "stage": "worker_done", "elapsed_seconds": 92.2441, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-06T12:42:25.385", "kind": "SUMMARY", "job_id": "S-124052-7fae3", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-06T12:42:25.430", "kind": "SUMMARY", "job_id": "S-124052-7fae3", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-06T12:52:17.416", "kind": "SUMMARY", "job_id": "S-125217-2a060", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T12:52:17.421", "kind": "SUMMARY", "job_id": "S-125217-2a060", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T12:52:17.426", "kind": "SUMMARY", "job_id": "S-125217-2a060", "stage": "thread_ready", "elapsed_seconds": 0.0011, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-06T12:52:17.640", "kind": "SUMMARY", "job_id": "S-125217-2a060", "stage": "item_error", "item": 1, "status": "StructuredOutputError"}
+{"at": "2026-10-06T12:52:17.641", "kind": "SUMMARY", "job_id": "S-125217-2a060", "stage": "worker_done", "elapsed_seconds": 0.2192, "summaries": 0, "failures": 1, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-06T12:52:20.736", "kind": "SUMMARY", "job_id": "S-125217-2a060", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-06T12:52:20.739", "kind": "SUMMARY", "job_id": "S-125217-2a060", "stage": "commit_done", "origin": "manual", "summaries": 0, "status": "ok"}
+{"at": "2026-10-06T13:15:37.804", "kind": "SUMMARY", "job_id": "S-131537-13224", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T13:15:37.806", "kind": "SUMMARY", "job_id": "S-131537-13224", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T13:15:37.811", "kind": "SUMMARY", "job_id": "S-131537-13224", "stage": "thread_ready", "elapsed_seconds": 0.0014, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-06T13:15:38.375", "kind": "SUMMARY", "job_id": "S-131537-13224", "stage": "item_error", "item": 1, "status": "StructuredOutputError"}
+{"at": "2026-10-06T13:15:38.376", "kind": "SUMMARY", "job_id": "S-131537-13224", "stage": "worker_done", "elapsed_seconds": 0.5691, "summaries": 0, "failures": 1, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-06T13:15:40.825", "kind": "SUMMARY", "job_id": "S-131537-13224", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-06T13:15:40.826", "kind": "SUMMARY", "job_id": "S-131537-13224", "stage": "commit_done", "origin": "manual", "summaries": 0, "status": "ok"}
+{"at": "2026-10-06T13:16:26.783", "kind": "SUMMARY", "job_id": "S-131626-b3b47", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T13:16:26.785", "kind": "SUMMARY", "job_id": "S-131626-b3b47", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T13:16:26.789", "kind": "SUMMARY", "job_id": "S-131626-b3b47", "stage": "thread_ready", "elapsed_seconds": 0.0011, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-06T13:16:27.345", "kind": "SUMMARY", "job_id": "S-131626-b3b47", "stage": "worker_done", "elapsed_seconds": 0.5607, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-06T13:16:29.977", "kind": "SUMMARY", "job_id": "S-131626-b3b47", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-06T13:16:30.042", "kind": "SUMMARY", "job_id": "S-131626-b3b47", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-06T13:48:03.496", "kind": "SUMMARY", "job_id": "S-134803-d3f7b", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T13:48:03.497", "kind": "SUMMARY", "job_id": "S-134803-d3f7b", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-06T13:48:03.502", "kind": "SUMMARY", "job_id": "S-134803-d3f7b", "stage": "thread_ready", "elapsed_seconds": 0.0011, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-06T13:48:04.313", "kind": "SUMMARY", "job_id": "S-134803-d3f7b", "stage": "worker_done", "elapsed_seconds": 0.8154, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-06T13:48:06.762", "kind": "SUMMARY", "job_id": "S-134803-d3f7b", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-06T13:48:06.819", "kind": "SUMMARY", "job_id": "S-134803-d3f7b", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T09:39:03.978", "kind": "SUMMARY", "job_id": "S-093903-f95c1", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T09:39:03.985", "kind": "SUMMARY", "job_id": "S-093903-f95c1", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T09:39:05.673", "kind": "SUMMARY", "job_id": "S-093903-f95c1", "stage": "thread_ready", "elapsed_seconds": 1.6866, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T09:39:05.764", "kind": "SUMMARY", "job_id": "S-093903-f95c1", "stage": "item_error", "item": 1, "status": "StructuredOutputError"}
+{"at": "2026-10-07T09:39:05.765", "kind": "SUMMARY", "job_id": "S-093903-f95c1", "stage": "worker_done", "elapsed_seconds": 1.7798, "summaries": 0, "failures": 1, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T09:39:07.173", "kind": "SUMMARY", "job_id": "S-093903-f95c1", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T09:39:07.173", "kind": "SUMMARY", "job_id": "S-093903-f95c1", "stage": "commit_done", "origin": "manual", "summaries": 0, "status": "ok"}
+{"at": "2026-10-07T09:39:35.367", "kind": "SUMMARY", "job_id": "S-093935-3baad", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T09:39:35.368", "kind": "SUMMARY", "job_id": "S-093935-3baad", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T09:39:35.375", "kind": "SUMMARY", "job_id": "S-093935-3baad", "stage": "thread_ready", "elapsed_seconds": 0.0024, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T09:39:35.473", "kind": "SUMMARY", "job_id": "S-093935-3baad", "stage": "item_error", "item": 1, "status": "StructuredOutputError"}
+{"at": "2026-10-07T09:39:35.474", "kind": "SUMMARY", "job_id": "S-093935-3baad", "stage": "worker_done", "elapsed_seconds": 0.1055, "summaries": 0, "failures": 1, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T09:39:38.524", "kind": "SUMMARY", "job_id": "S-093935-3baad", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T09:39:38.524", "kind": "SUMMARY", "job_id": "S-093935-3baad", "stage": "commit_done", "origin": "manual", "summaries": 0, "status": "ok"}
+{"at": "2026-10-07T10:32:50.018", "kind": "SUMMARY", "job_id": "S-103250-9cc1b", "stage": "launch", "origin": "manual", "mode": "manual", "items": 2}
+{"at": "2026-10-07T10:32:50.020", "kind": "SUMMARY", "job_id": "S-103250-9cc1b", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 2}
+{"at": "2026-10-07T10:32:51.698", "kind": "SUMMARY", "job_id": "S-103250-9cc1b", "stage": "thread_ready", "elapsed_seconds": 1.6386, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T10:32:54.330", "kind": "SUMMARY", "job_id": "S-103250-9cc1b", "stage": "thread_ready", "elapsed_seconds": 1.6389, "item": 2, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T10:32:55.222", "kind": "SUMMARY", "job_id": "S-103250-9cc1b", "stage": "worker_done", "elapsed_seconds": 5.2026, "summaries": 2, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T10:32:55.230", "kind": "SUMMARY", "job_id": "S-103250-9cc1b", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T10:32:55.250", "kind": "SUMMARY", "job_id": "S-103250-9cc1b", "stage": "commit_done", "origin": "manual", "summaries": 2, "status": "ok"}
+{"at": "2026-10-07T10:49:01.590", "kind": "SUMMARY", "job_id": "S-104901-0364a", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T10:49:01.592", "kind": "SUMMARY", "job_id": "S-104901-0364a", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T10:49:03.288", "kind": "SUMMARY", "job_id": "S-104901-0364a", "stage": "thread_ready", "elapsed_seconds": 1.6912, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T10:49:04.200", "kind": "SUMMARY", "job_id": "S-104901-0364a", "stage": "worker_done", "elapsed_seconds": 2.6133, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T10:49:04.734", "kind": "SUMMARY", "job_id": "S-104901-0364a", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T10:49:04.803", "kind": "SUMMARY", "job_id": "S-104901-0364a", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T10:50:08.894", "kind": "SUMMARY", "job_id": "S-105008-28f58", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T10:50:08.895", "kind": "SUMMARY", "job_id": "S-105008-28f58", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T10:50:10.601", "kind": "SUMMARY", "job_id": "S-105008-28f58", "stage": "thread_ready", "elapsed_seconds": 1.7157, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T10:50:12.388", "kind": "SUMMARY", "job_id": "S-105008-28f58", "stage": "worker_done", "elapsed_seconds": 3.5033, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T10:50:13.035", "kind": "SUMMARY", "job_id": "S-105008-28f58", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T10:50:13.071", "kind": "SUMMARY", "job_id": "S-105008-28f58", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T11:23:04.227", "kind": "SUMMARY", "job_id": "S-112304-1dd71", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T11:23:04.229", "kind": "SUMMARY", "job_id": "S-112304-1dd71", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T11:23:05.869", "kind": "SUMMARY", "job_id": "S-112304-1dd71", "stage": "thread_ready", "elapsed_seconds": 1.6362, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T11:23:07.662", "kind": "SUMMARY", "job_id": "S-112304-1dd71", "stage": "worker_done", "elapsed_seconds": 3.4334, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T11:23:09.230", "kind": "SUMMARY", "job_id": "S-112304-1dd71", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T11:23:09.286", "kind": "SUMMARY", "job_id": "S-112304-1dd71", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T12:45:54.315", "kind": "SUMMARY", "job_id": "S-124554-a986f", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T12:45:54.316", "kind": "SUMMARY", "job_id": "S-124554-a986f", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T12:45:55.936", "kind": "SUMMARY", "job_id": "S-124554-a986f", "stage": "thread_ready", "elapsed_seconds": 1.6145, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T12:45:57.428", "kind": "SUMMARY", "job_id": "S-124554-a986f", "stage": "summary_action_audit_input", "audit_chars": 1311, "source_chars": 237, "segment": 1, "segments": 1}
+{"at": "2026-10-07T12:45:58.642", "kind": "SUMMARY", "job_id": "S-124554-a986f", "stage": "worker_done", "elapsed_seconds": 4.3257, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T12:45:59.478", "kind": "SUMMARY", "job_id": "S-124554-a986f", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T12:45:59.524", "kind": "SUMMARY", "job_id": "S-124554-a986f", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T12:48:17.778", "kind": "SUMMARY", "job_id": "S-124817-9149c", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T12:48:17.779", "kind": "SUMMARY", "job_id": "S-124817-9149c", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T12:48:19.397", "kind": "SUMMARY", "job_id": "S-124817-9149c", "stage": "thread_ready", "elapsed_seconds": 1.6147, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T12:49:36.840", "kind": "SUMMARY", "job_id": "S-124817-9149c", "stage": "worker_done", "elapsed_seconds": 79.0614, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T12:49:37.114", "kind": "SUMMARY", "job_id": "S-124817-9149c", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T12:49:37.166", "kind": "SUMMARY", "job_id": "S-124817-9149c", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T12:53:23.377", "kind": "SUMMARY", "job_id": "S-125323-220f6", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T12:53:23.379", "kind": "SUMMARY", "job_id": "S-125323-220f6", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T12:53:25.042", "kind": "SUMMARY", "job_id": "S-125323-220f6", "stage": "thread_ready", "elapsed_seconds": 1.6583, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T12:55:29.424", "kind": "SUMMARY", "job_id": "S-125323-220f6", "stage": "worker_done", "elapsed_seconds": 126.0456, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T12:55:29.542", "kind": "SUMMARY", "job_id": "S-125323-220f6", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T12:55:29.590", "kind": "SUMMARY", "job_id": "S-125323-220f6", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T13:07:59.426", "kind": "SUMMARY", "job_id": "S-130759-fa122", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T13:07:59.428", "kind": "SUMMARY", "job_id": "S-130759-fa122", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T13:08:01.286", "kind": "SUMMARY", "job_id": "S-130759-fa122", "stage": "thread_ready", "elapsed_seconds": 1.8505, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T13:08:02.858", "kind": "SUMMARY", "job_id": "S-130759-fa122", "stage": "worker_done", "elapsed_seconds": 3.4296, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T13:08:03.655", "kind": "SUMMARY", "job_id": "S-130759-fa122", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T13:08:03.702", "kind": "SUMMARY", "job_id": "S-130759-fa122", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T13:14:47.739", "kind": "SUMMARY", "job_id": "S-131447-8df42", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T13:14:47.740", "kind": "SUMMARY", "job_id": "S-131447-8df42", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T13:14:49.396", "kind": "SUMMARY", "job_id": "S-131447-8df42", "stage": "thread_ready", "elapsed_seconds": 1.6547, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T13:15:42.713", "kind": "SUMMARY", "job_id": "S-131447-8df42", "stage": "worker_done", "elapsed_seconds": 54.9727, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T13:15:42.926", "kind": "SUMMARY", "job_id": "S-131447-8df42", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T13:15:43.002", "kind": "SUMMARY", "job_id": "S-131447-8df42", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T14:10:44.585", "kind": "SUMMARY", "job_id": "S-141044-7438b", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T14:10:44.586", "kind": "SUMMARY", "job_id": "S-141044-7438b", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T14:10:46.256", "kind": "SUMMARY", "job_id": "S-141044-7438b", "stage": "thread_ready", "elapsed_seconds": 1.6647, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T14:10:47.953", "kind": "SUMMARY", "job_id": "S-141044-7438b", "stage": "summary_action_audit_input", "audit_chars": 1311, "source_chars": 237, "segment": 1, "segments": 1}
+{"at": "2026-10-07T14:12:10.827", "kind": "SUMMARY", "job_id": "S-141044-7438b", "stage": "worker_done", "elapsed_seconds": 86.2418, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T14:12:11.750", "kind": "SUMMARY", "job_id": "S-141044-7438b", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T14:12:11.809", "kind": "SUMMARY", "job_id": "S-141044-7438b", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T14:14:12.593", "kind": "SUMMARY", "job_id": "S-141412-9829c", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T14:14:12.594", "kind": "SUMMARY", "job_id": "S-141412-9829c", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T14:14:14.286", "kind": "SUMMARY", "job_id": "S-141412-9829c", "stage": "thread_ready", "elapsed_seconds": 1.6877, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T14:14:15.980", "kind": "SUMMARY", "job_id": "S-141412-9829c", "stage": "worker_done", "elapsed_seconds": 3.3861, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T14:14:16.790", "kind": "SUMMARY", "job_id": "S-141412-9829c", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T14:14:16.854", "kind": "SUMMARY", "job_id": "S-141412-9829c", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-07T14:20:58.732", "kind": "SUMMARY", "job_id": "S-142058-f9799", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T14:20:58.733", "kind": "SUMMARY", "job_id": "S-142058-f9799", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-07T14:21:00.484", "kind": "SUMMARY", "job_id": "S-142058-f9799", "stage": "thread_ready", "elapsed_seconds": 1.7461, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-07T14:21:02.137", "kind": "SUMMARY", "job_id": "S-142058-f9799", "stage": "worker_done", "elapsed_seconds": 3.4041, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-07T14:21:02.986", "kind": "SUMMARY", "job_id": "S-142058-f9799", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-07T14:21:03.050", "kind": "SUMMARY", "job_id": "S-142058-f9799", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-08T08:46:30.203", "kind": "SUMMARY", "job_id": "S-084630-bf8b3", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-08T08:46:30.209", "kind": "SUMMARY", "job_id": "S-084630-bf8b3", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-08T08:46:31.928", "kind": "SUMMARY", "job_id": "S-084630-bf8b3", "stage": "thread_ready", "elapsed_seconds": 1.7218, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-08T08:46:33.756", "kind": "SUMMARY", "job_id": "S-084630-bf8b3", "stage": "worker_done", "elapsed_seconds": 3.5469, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 0, "status": "ok"}
+{"at": "2026-10-08T08:46:34.201", "kind": "SUMMARY", "job_id": "S-084630-bf8b3", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-08T08:46:34.236", "kind": "SUMMARY", "job_id": "S-084630-bf8b3", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-08T09:49:57.832", "kind": "SUMMARY", "job_id": "S-094957-2ce97", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-08T09:49:57.834", "kind": "SUMMARY", "job_id": "S-094957-2ce97", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-08T09:49:59.453", "kind": "SUMMARY", "job_id": "S-094957-2ce97", "stage": "thread_ready", "elapsed_seconds": 1.6215, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-08T09:52:56.997", "kind": "SUMMARY", "job_id": "S-094957-2ce97", "stage": "worker_done", "elapsed_seconds": 179.173, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 1, "status": "ok"}
+{"at": "2026-10-08T09:52:57.948", "kind": "SUMMARY", "job_id": "S-094957-2ce97", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-08T09:52:57.995", "kind": "SUMMARY", "job_id": "S-094957-2ce97", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-08T10:27:17.349", "kind": "SUMMARY", "job_id": "S-102717-3379f", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-08T10:27:17.351", "kind": "SUMMARY", "job_id": "S-102717-3379f", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-08T10:27:19.089", "kind": "SUMMARY", "job_id": "S-102717-3379f", "stage": "thread_ready", "elapsed_seconds": 1.7458, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-08T10:28:47.865", "kind": "SUMMARY", "job_id": "S-102717-3379f", "stage": "summary_action_audit_input", "audit_chars": 1387, "source_chars": 298, "segment": 1, "segments": 1}
+{"at": "2026-10-08T10:29:16.084", "kind": "SUMMARY", "job_id": "S-102717-3379f", "stage": "worker_done", "elapsed_seconds": 118.7326, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 2, "status": "ok"}
+{"at": "2026-10-08T10:29:16.546", "kind": "SUMMARY", "job_id": "S-102717-3379f", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-08T10:29:16.611", "kind": "SUMMARY", "job_id": "S-102717-3379f", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}
+{"at": "2026-10-08T10:43:20.155", "kind": "SUMMARY", "job_id": "S-104320-05f2c", "stage": "launch", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-08T10:43:20.157", "kind": "SUMMARY", "job_id": "S-104320-05f2c", "stage": "worker_start", "origin": "manual", "mode": "manual", "items": 1}
+{"at": "2026-10-08T10:43:21.800", "kind": "SUMMARY", "job_id": "S-104320-05f2c", "stage": "thread_ready", "elapsed_seconds": 1.6391, "item": 1, "items": 1, "security_excluded": 0}
+{"at": "2026-10-08T10:44:46.002", "kind": "SUMMARY", "job_id": "S-104320-05f2c", "stage": "summary_action_audit_input", "audit_chars": 1387, "source_chars": 298, "segment": 1, "segments": 1}
+{"at": "2026-10-08T10:44:57.926", "kind": "SUMMARY", "job_id": "S-104320-05f2c", "stage": "worker_done", "elapsed_seconds": 97.7685, "summaries": 1, "failures": 0, "security_skips": 0, "calls": 2, "status": "ok"}
+{"at": "2026-10-08T10:44:58.301", "kind": "SUMMARY", "job_id": "S-104320-05f2c", "stage": "future_ready", "origin": "manual"}
+{"at": "2026-10-08T10:44:58.341", "kind": "SUMMARY", "job_id": "S-104320-05f2c", "stage": "commit_done", "origin": "manual", "summaries": 1, "status": "ok"}

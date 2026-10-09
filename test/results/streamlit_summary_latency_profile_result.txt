@@ -1,0 +1,14 @@
+MailMind Streamlit Summary Latency Profile
+================================================================================
+Runs: 1
+Server-side timing only; browser paint/network after server render is not included.
+
+Click -> server rendered         avg=98.422s median=98.422s p95=98.422s min=98.422s max=98.422s
+Click -> job launch              avg=0.085s median=0.085s p95=0.085s min=0.085s max=0.085s
+Background summary job           avg=98.147s median=98.147s p95=98.147s min=98.147s max=98.147s
+Commit / state update            avg=0.036s median=0.036s p95=0.036s min=0.036s max=0.036s
+Commit -> Summary render start   avg=0.132s median=0.132s p95=0.132s min=0.132s max=0.132s
+AI Summary workspace render      avg=0.021s median=0.021s p95=0.021s min=0.021s max=0.021s
+
+RUNS
+01. selected=1 summaries=1 total=98.422s prep=0.085s job=98.147s commit=0.036s render=0.021s
